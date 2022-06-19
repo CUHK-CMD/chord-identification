@@ -7,8 +7,8 @@ At your target directory, execute the following:
 ```
 conda create -n fyp python=3.8 -y
 conda activate fyp
-git clone https://github.com/tpmmthomas/fyp-chord-identification.git
-cd fyp-chord-identification
+git clone https://github.com/CUHK-CMD/chord-identification
+cd chord-identification
 pip install -r requirements.txt
 ```
 
